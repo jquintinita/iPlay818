@@ -14,12 +14,15 @@
     --dark-gray: #333;
     --french-gray: #D1D6DDff;
     --dark-bluesh:#798B9C;
+
 }
 
 body{
     font-family: 'PingFang SC';
     font-weight: normal;
+
     background-color: var(--alice-blue);
+    background-image: url(../img/main-background.png);
 }
 
 .container{
